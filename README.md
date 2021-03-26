@@ -1,4 +1,4 @@
-# My-first-project
+#-first-project
 Automatic Topic Tagging for documents using an API
 
 Category: Artificial Intelligence
